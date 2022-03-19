@@ -124,5 +124,5 @@ Implementations of xv6 Virtual Memory by:
 - [Youssef Magdy](https://github.com/youssefmagdy1)
 
 Implementations of xv6 Kernel Threads by:
-- [Muhammad Mohie](https://github.com/muhammadmohie98)
+- [Muhammad Mohie](https://github.com/muhammadmohie)
 
